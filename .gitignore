@@ -1,0 +1,13 @@
+target/
+test-output/
+extent-test-output/
+logs/
+*.class
+*.log
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.DS_Store
+src/test/resources/executables/
